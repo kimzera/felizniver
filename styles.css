@@ -1,6 +1,7 @@
 body{
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
+    background-color: rgba(50, 255, 207, 0.754);
 }
 
 header{
@@ -27,3 +28,15 @@ header img{
     margin-bottom: 15px;
     font-family: 'Pacifico', cursive;
 }
+
+@media (min-width: 360px) {
+  * {
+    
+  }
+    }
+
+    @media (min-height: 640px) {
+       *{
+           background-color: black;
+       }
+        }
