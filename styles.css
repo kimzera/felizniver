@@ -30,13 +30,13 @@ header img{
 }
 
 @media (min-width: 360px) {
-  * {
-    
-  }
+    *{
+        background-color: rgba(17, 16, 16, 0.938);
+    }
     }
 
     @media (min-height: 640px) {
        *{
-           background-color: black;
+           background-color: rgba(17, 16, 16, 0.938);
        }
         }
