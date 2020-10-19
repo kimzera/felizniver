@@ -1,32 +1,23 @@
 body{
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
-    background-color: rgba(50, 255, 207, 0.754);
-}
-
-header{
-    border-bottom: 1px solid #ccc;
-}
-
-header img{
-    margin-top: 12px;
-}
-
-.container{
-    width: 1200px;
-    padding-left: 20px;
-    padding-right: 15px;
-    margin: 0;
-}
-
-.lema{
+    background-color: rgba(17, 16, 16, 0.938);
     text-align: center;
 }
 
-.lema > h1 {
+iframe {
+    border-radius: 15px;
+}
+
+h1 {
+    color: rgba(234, 59, 59, 0.802);
     margin-top: 35px;
     margin-bottom: 15px;
     font-family: 'Pacifico', cursive;
+}
+
+img {
+    border-radius: 15px;
 }
 
 @media (min-width: 360px) {
