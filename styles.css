@@ -10,7 +10,7 @@ iframe {
 }
 
 h1 {
-    color: rgba(234, 59, 59, 0.802);
+    color: rgba(234, 93, 93, 0.666);
     margin-top: 35px;
     margin-bottom: 15px;
     font-family: 'Pacifico', cursive;
@@ -21,13 +21,13 @@ img {
 }
 
 @media (min-width: 360px) {
-    *{
+    body{
         background-color: rgba(17, 16, 16, 0.938);
     }
     }
 
     @media (min-height: 640px) {
-       *{
+       body{
            background-color: rgba(17, 16, 16, 0.938);
        }
         }
