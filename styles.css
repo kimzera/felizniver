@@ -23,6 +23,7 @@ img {
 @media (min-width: 360px) {
     body{
         background-color: rgba(17, 16, 16, 0.871);
+        
     }
     }
 
@@ -30,4 +31,8 @@ img {
        body{
            background-color: rgba(17, 16, 16, 0.871);
        }
+        iframe {
+            width: 80%;
+            height: 400px;
+        }
         }
