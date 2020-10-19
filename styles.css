@@ -22,12 +22,12 @@ img {
 
 @media (min-width: 360px) {
     body{
-        background-color: rgba(17, 16, 16, 0.938);
+        background-color: rgba(17, 16, 16, 0.871);
     }
     }
 
     @media (min-height: 640px) {
        body{
-           background-color: rgba(17, 16, 16, 0.938);
+           background-color: rgba(17, 16, 16, 0.871);
        }
         }
