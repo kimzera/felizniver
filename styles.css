@@ -20,6 +20,15 @@ img {
     border-radius: 15px;
 }
 
+
+#main-banner {
+    padding: 1000px;
+    position: absolute;
+    display: flex;
+    padding: 0;
+    overflow: hidden;
+}
+
 @media (min-width: 360px) {
     body{
         background-color: rgba(17, 16, 16, 0.871);
@@ -32,7 +41,16 @@ img {
            background-color: rgba(17, 16, 16, 0.871);
        }
         iframe {
-            width: 80%;
+            width: 70%;
             height: 400px;
         }
+
+        #main-banner {
+            position: absolute;
+            padding: 0;
+            overflow: hidden;
+            left: 600px;
+            top: -300px;
+        }
+        
         }
